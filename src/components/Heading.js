@@ -2,7 +2,7 @@ export default function Heading () {
     return (
         <div className="py-24 text-center">
             <div className="mx-10">
-                <h1 className="lexend mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">Trip planning <span className="text-transparent bg-clip-text bg-gradient-to-r from-slate-400 to-scrapeblue">made simple </span>with <span className="text-transparent bg-clip-text bg-gradient-to-r from-slate-400 to-scrapeblue">ScrapeBook</span>.</h1>
+                <h1 className="lexend mx-auto max-w-4xl font-display text-5xl font-medium tracking-tight text-slate-900 sm:text-7xl">Travelling to new destinations <span className="text-transparent bg-clip-text bg-gradient-to-r from-slate-400 to-scrapeblue">made simple </span>with <span className="text-transparent bg-clip-text bg-gradient-to-r from-slate-400 to-scrapeblue">ScrapeBook</span>.</h1>
             </div>
 
             <div className="mx-10 mt-10">
